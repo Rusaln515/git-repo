@@ -1,2 +1,4 @@
 Print ("hello world!")????
-print master
+print ("hello everybody")
+print ("hello")
+print ("hello my dear friend")
